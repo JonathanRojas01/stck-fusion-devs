@@ -1,0 +1,59 @@
+{
+    "technology": [{
+            "id": 1,
+            "name": "Bootstrap",
+            "type": "Frontend",
+            "category": "Framework",
+            "web": "https://getbootstrap.com/"
+        },
+        {
+            "id": 2,
+            "name": "Laravel",
+            "type": "Backend",
+            "category": "Framework",
+            "web": "https://laravel.com/"
+        },
+        {
+            "id": 3,
+            "name": "Owl Carousel",
+            "type": "Frontend",
+            "category": "Libreria",
+            "web": "https://owlcarousel2.github.io/OwlCarousel2/"
+        },
+        {
+            "id": 4,
+            "name": "ImgLiquid",
+            "type": "Frontend",
+            "category": "Libreria",
+            "web": "https://github.com/karacas/imgLiquid"
+        },
+        {
+            "id": 5,
+            "name": "Aos Animation",
+            "type": "Frontend",
+            "category": "Libreria",
+            "web": "https://michalsnik.github.io/aos/"
+        },
+        {
+            "id": 6,
+            "name": "Wordpress",
+            "type": "Backend",
+            "category": "CMS",
+            "web": "https://wordpress.org/"
+        },
+        {
+            "id": 7,
+            "name": "Video JS",
+            "type": "Frontend",
+            "category": "Libreria",
+            "web": "https://videojs.com/"
+        },
+        {
+            "id": 8,
+            "name": "TinyPNG",
+            "type": "Frontend",
+            "category": "Herramientas",
+            "web": "https://tinypng.com/"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "categories": [{
+            "id": 1,
+            "name": "Framework"
+        },
+        {
+            "id": 2,
+            "name": "Libreria"
+        },
+        {
+            "id": 3,
+            "name": "CMS"
+        },
+        {
+            "id": 4,
+            "name": "Apis"
+        },
+        {
+            "id": 5,
+            "name": "DB"
+        },
+        {
+            "id": 6,
+            "name": "Herramientas"
+        }
+    ]
+}

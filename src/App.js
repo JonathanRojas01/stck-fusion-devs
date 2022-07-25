@@ -1,3 +1,11 @@
+import React from 'react';
+import { Categorias } from './components/Categorias';
+import { Lista } from "./components/Lista";
+
+// Styles
+import './style.css';
+
+
 
 function App() {
 
@@ -6,7 +14,9 @@ function App() {
 
 		<div className="App">
 
-			<h1>Stack Fusion Devs</h1>
+
+			<h1>Fusion Devs</h1>
+			<Categorias/>
 
 		</div>
 	
@@ -16,3 +26,12 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
+
+
+
+
